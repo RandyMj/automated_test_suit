@@ -7,5 +7,6 @@ Simple automated test plan in [Python](https://www.python.org) with [Selenium](h
 - First test is opening [Google](https://www.google.com) find the search box, clear it and send "selenium" keys, then find the first link by the xpath and click it.
 - Second test is opening [WeSchools](https://www.w3schools.com) find a link by it link name ands click it.
 - Third test is opening [Amazon](https://www.amazon.com) send keys into the search box and scrolling down the page to the end.
+- In the "Test Suit Results" carpet you can find the html file with the report of the tests.
 
 > Note: `Time` module is to make the automation to wait for the page to load (this is not the optimal way to do it).
